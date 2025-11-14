@@ -24,8 +24,8 @@ author:
   avatar           : "生活照.png"
   name             : "Lishuang Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Currently visiting in Mannheim"
-  location         : "Germany"
+  bio              : 
+  location         : "China"
   employer         : "Jinan University"
   uri              : # URL
   email            : "lishuanghuanggz@163.com" 
