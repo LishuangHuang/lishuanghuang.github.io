@@ -6,11 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in [Jinan University](https://www.jnu.edu.cn/main.htm) , and currently visiting in [University of Mannheim](https://www.vwl.uni-mannheim.de/).
+I am a Ph.D. candidate in Economics (Public Finance & Taxation) at Jinan University (research: taxation reform’s labor market impact, hukou policy effects; skilled in Stata/Python/R) and a full-time Lecturer at Guangzhou College of Commerce (taught 3 core courses to 500+ undergraduates, advised 5 national tax competition-winning teams) . With published taxation-related peer-reviewed papers, I aim for postdoctoral roles in labor economics/fiscal policy or positions at international organizations.
 
-My research interests are International Trade and Labor Economics. Firstly, l focus on the effects of taxation reform on China's labor market power,  including the dynamics of labor migration and wage markdown. Secondly, l focus on how the household policy(hukou) impact the China's labor force, covering aspects such as skill spillover, the accumulation of human capital and migration.
-
-I aim to find a postdoctoral position in the future. You can find my CV here: [Lishuang's Curriculum Vitae](https://github.com/LishuangHuang/lishuanghuang.github.io/blob/master/assets/cv2025_lishuanghuangnew.pdf)
+ You can find my CV here: [Lishuang's Curriculum Vitae](https://github.com/LishuangHuang/lishuanghuang.github.io/blob/master/assets/cv2025_lishuanghuangnew.pdf)
 
 
 
