@@ -14,7 +14,7 @@ I am a Ph.D. candidate in Economics (Public Finance & Taxation) at Jinan Univers
 
 Research Interest
 ======
-- Trade
+- Public Economics   
 - Taxation
 - Labor Economics
 
