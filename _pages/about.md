@@ -10,7 +10,7 @@ I am a Ph.D. student in [Jinan University](https://www.jnu.edu.cn/main.htm) , an
 
 My research interests are International Trade and Labor Economics. Firstly, l focus on the effects of taxation reform on China's labor market power,  including the dynamics of labor migration and wage markdown. Secondly, l focus on how the household policy(hukou) impact the China's labor force, covering aspects such as skill spillover, the accumulation of human capital and migration.
 
-I aim to find a postdoctoral position in the future. You can find my CV here: [Lishuang's Curriculum Vitae](assets/CV2024_lishuang.pdf)
+I aim to find a postdoctoral position in the future. You can find my CV here: [Lishuang's Curriculum Vitae](cv2025_lishuanghuangnew.pdf)
 
 
 
