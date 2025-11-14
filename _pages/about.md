@@ -24,8 +24,8 @@ Contact Information
 ======
 
 
-B6, 28-30, Mannheim,Germany, 68161
+No. 601, Huangpu Avenue West, Tianhe, Guangzhou, Guangdong,China, 510630
 
 
-Email: lishuanghuangecon@gmail.com
+Email: lishuanghuanggz@163.com
 
