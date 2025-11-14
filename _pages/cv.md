@@ -33,9 +33,6 @@ Publications
    - [Published version(Chinese)](https://lishuanghuang.github.io/assets/lishuang2025_digital_tax.pdf))   [Translation(English)](https://lishuanghuang.github.io/assets/lishuang_digital_tax_eng.pdf)
 
 
-    (In Chinese) \href{https://lishuanghuang.github.io/assets/lishuang2025_digital_tax.pdf}{\color{blue}[PDF]}  \quad 
-\href{https://lishuanghuang.github.io/assets/lishuang_digital_tax_eng.pdf}{\color{blue}[Summary(English)]}\\  [Translation(English)](https://lishuanghuang.github.io/assets/Hongkong_eng.pdf)
-
 Working paper
 ======
 ### 2023
