@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2019-2021: Lecturer
+* 2019-present: Lecturer
   * Guangzhou College of Commerce
   * Department of Accounting 
 
@@ -29,6 +29,12 @@ Publications
   - [Published version(Chinese)](https://lishuanghuang.github.io/assets/Macau.pdf)   [Translation(English)](https://lishuanghuang.github.io/assets/Macau_eng.pdf)
 * Lishuang Huang(2021). Hong Kong's tax assessment system and its reference to the mainland. Finance and Accounting for International Commerce.
   - [Published version(Chinese)](https://lishuanghuang.github.io/assets/Hongkong.pdf)   [Translation(English)](https://lishuanghuang.github.io/assets/Hongkong_eng.pdf)
+* Lishuang Huang,Senping Yang, Yuzhi Zhang (2025). International Exploration, Controversies and Implications of Digital Services Tax (DST), Journal of Taxation Study.
+   - [Published version(Chinese)](https://lishuanghuang.github.io/assets/lishuang2025_digital_tax.pdf))   [Translation(English)](https://lishuanghuang.github.io/assets/lishuang_digital_tax_eng.pdf)
+
+
+    (In Chinese) \href{https://lishuanghuang.github.io/assets/lishuang2025_digital_tax.pdf}{\color{blue}[PDF]}  \quad 
+\href{https://lishuanghuang.github.io/assets/lishuang_digital_tax_eng.pdf}{\color{blue}[Summary(English)]}\\  [Translation(English)](https://lishuanghuang.github.io/assets/Hongkong_eng.pdf)
 
 Working paper
 ======
